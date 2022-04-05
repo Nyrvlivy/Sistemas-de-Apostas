@@ -47,6 +47,11 @@ namespace Sistemas_de_Apostas
                     Console.Write(m[c, n]);
             }
                     Console.ReadKey();
+
+
+
+
+
          }
      }
  }
